@@ -6,8 +6,9 @@ Este proyecto forma parte del desafio de analisis de datos prpuesto por Alura LA
 ## Estructura del Proyecto:
 
 alura-store-challenge/
-|---- Chagenlle_Alura_Store.ipynb
-|---- README.md
+├── Challenge_Alura_Store.ipynb
+├── README.md
+
 
 ## Dataset: Se utlizan los siguientes datasets, disponibles en el repositorio original de Alura:
 
