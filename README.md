@@ -1,5 +1,5 @@
 # alura-store-challenge
-Este proyecto forma parte del desafio de analisis de datos propuesto por Alura LATAM, cuyo objetivo es practicar habilidades esenciales en la manipulación, análisis y visualización de datos utilizando Python y Pandas.
+Este proyecto forma parte del desafio de análisis de datos propuesto por Alura LATAM, cuyo objetivo es practicar habilidades esenciales en la manipulación, análisis y visualización de datos utilizando Python y Pandas.
 
 # Objetivo del proyecto: Analizar las ventas de cuatro tiendas virtuales, descubrir patrones de comportamiento del cliente y obtener insights importantes para la mejora de las decisiones comerciales.
 
